@@ -1,0 +1,20 @@
+section#conteudo {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    width: 1000px;
+    margin: auto;
+
+}
+
+iframe#frame-spec{
+    width: 500px;
+    height: 300px;
+    border: none; 
+    overflow: hidden;
+    flex: 1;
+}
+
+iframe#frame-spec::-webkit-scrollbar {
+    display: none; 
+}
