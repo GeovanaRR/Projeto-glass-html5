@@ -5,7 +5,7 @@ Site informativo sobre o Google Glass, desenvolvido como projeto prático do cur
 
 ## 📸 Preview
 
-![Preview do projeto](captura-de-tela-2026-06-17.png)
+![Preview do projeto](![Preview do projeto](_imagens/Captura%20de%20tela%202026-06-17%20003539.png))
 
 
 ## 📄 Páginas
