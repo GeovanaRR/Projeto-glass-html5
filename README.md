@@ -2,15 +2,11 @@
 
 Site informativo sobre o Google Glass, desenvolvido como projeto prático do curso **HTML5 e CSS3** do professor **Gustavo Guanabara** (Curso em Vídeo).
 
+🌐 **Site ao vivo:** [Clique aqui para ver o projeto](https://geovanarr.github.io/Projeto-glass-html5)
 
 ## 📸 Preview
 
-<<<<<<< HEAD
-!![Preview do projeto](_imagens/preview.png)
-=======
 ![Preview do projeto](_imagens/preview.png)
-
->>>>>>> 10d5c857213a2337b9c10564310b60e6a7eac439
 
 ## 📄 Páginas
 
@@ -77,11 +73,4 @@ projeto-glass-html5/
 
 ## 👨‍🏫 Créditos
 
-<<<<<<< HEAD
 Projeto desenvolvido seguindo as aulas do [Curso em Vídeo](https://www.cursoemvideo.com) por **Gustavo Guanabara**.
-=======
-Projeto desenvolvido seguindo as aulas do [Curso em Vídeo](https://www.cursoemvideo.com) por **Gustavo Guanabara**.
->>>>>>> 10d5c857213a2337b9c10564310b60e6a7eac439
-
-
-🌐 **Site ao vivo:** [Clique aqui para ver o projeto](https://geovanarr.github.io/Projeto-glass-html5)
